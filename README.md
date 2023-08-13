@@ -156,7 +156,7 @@ h1{
 }
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
+![OUTPUT](./calculatorscreenshot.png)
 
 ## HTML VALIDATOR:
 ![HTML VALIDATOR](./valid.png)
